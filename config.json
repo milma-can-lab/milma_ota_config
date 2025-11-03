@@ -1,5 +1,5 @@
 {
-  "broadcast_interval": 180000,
+  "broadcast_interval": 150000,
   "retry_time": 120000,
   "sensor_check_time": 20000,
   "max_broadcast_retries": 4,
