@@ -1,11 +1,11 @@
 {
   "broadcast_interval": 600000,
   "retry_time": 120000,
-  "max_broadcast_retries": 4,
+  "max_broadcast_retries": 4
    "interval_after_alert": 600000,
    "sensor_check_time": 20000,
-  "temp_threshold_high": 30.0,
-  "temp_threshold_medium": 25.0,
+  "temp_threshold_high": -10.0,
+  "temp_threshold_medium": 0.0,
   "temp_hysteresis": 1.0,
   "soc_threshold": 20,
   "reset_hour": 0,
