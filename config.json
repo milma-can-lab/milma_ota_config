@@ -5,7 +5,7 @@
    "interval_after_alert": 600000,
    "sensor_check_time": 20000,
   "temp_threshold_high": 0.0,
-  "temp_threshold_medium": -10.0,
+  "temp_threshold_medium": 10.0,
   "temp_hysteresis": 1.0,
   "soc_threshold": 20,
   "reset_hour": 0,
