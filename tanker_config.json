@@ -1,5 +1,5 @@
 {
-  "broadcast_interval": 180000,
+  "broadcast_interval": 60000,
   "retry_time": 120000,
   "max_broadcast_retries": 4,
    "interval_after_alert": 600000,
