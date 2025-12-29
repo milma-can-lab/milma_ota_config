@@ -1,7 +1,7 @@
 {
   "broadcast_interval": 180000,
   "retry_time": 120000,
-  "max_broadcast_retries": 0,
+  "max_broadcast_retries": 1,
    "interval_after_alert": 600000,
    "sensor_check_time": 20000,
   "temp_threshold_high": 0.0,
